@@ -1,0 +1,11 @@
+{
+  "name": "generation-actividades-24-01-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
